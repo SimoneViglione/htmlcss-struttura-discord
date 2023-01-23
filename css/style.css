@@ -59,3 +59,29 @@
     justify-content: center;
     flex-direction: row-reverse;
 }
+
+.container_green {
+    background-color: darkgreen;
+    height: 700px;
+    width: 1100px;
+    margin: auto;
+}
+
+.black {
+    background-color: rgb(38, 38, 38); 
+    padding: 10px 150px;
+}
+
+.container_pink2 {
+    background-color: crimson;
+    border-style: dotted;
+    height: 500px;
+    width: 30%;
+}
+
+.container_green2 {
+    background-color: darkseagreen;
+    border-style: dotted;
+    height: 500px;
+    width: calc(60% / 4)
+}
