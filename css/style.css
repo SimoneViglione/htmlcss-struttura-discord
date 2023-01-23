@@ -4,3 +4,14 @@
     box-sizing: border-box;
 }
 
+.container {
+    background-color: aqua;
+    height: 420px;
+}
+
+.flex_container {
+    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+}
+
