@@ -32,8 +32,30 @@
     height: 100%;
 }
 
+.grey {
+    background-color: grey;
+    padding: 20px 0px
+}
+
+.flex_container2 {
+    display: flex;
+    justify-content: center     ;
+}
+
 .image1 {
     background-color: cornflowerblue;
-    width: 500px;
-    
+    width: 700px;
+    height: 500px;  
+}
+
+.text1 {
+    background-color: blanchedalmond;
+    height: 500px;
+    width: 400px;
+}
+
+.flex_container3 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
 }
