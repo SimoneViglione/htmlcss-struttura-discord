@@ -13,6 +13,8 @@
     background-color: orange;
     display: flex;
     justify-content: space-between;
+    padding: 10px;
+    margin: 0px 20%;
 }
 
 .container_blue {
