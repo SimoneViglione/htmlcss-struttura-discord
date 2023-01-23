@@ -21,7 +21,6 @@
 .container_blue {
     background-color: blue;
     height: 350px;
-    max-width: 1800px;
     padding: 20px 300px;
 
 }
@@ -84,4 +83,24 @@
     border-style: dotted;
     height: 500px;
     width: calc(60% / 4)
+}
+
+.container_black {
+    background-color:rgb(38, 38, 38);
+    margin: 1px 1px;
+    padding: 5px 200px 0px;
+}
+
+.flex_container4 {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    width: auto;
+    
+}
+
+.footer_item {
+    background-color: crimson;
+    padding: 2px;
 }
